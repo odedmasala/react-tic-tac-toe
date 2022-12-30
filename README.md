@@ -27,7 +27,7 @@ To get started with react-tic-tac-toe, you will need to have the following prere
 
 Once you have these prerequisites installed, you can follow the steps below to set up the project:
 
-1. Clone the repository to your local machine using `git clone https://github.com/[your-username]/react-tic-tac-toe.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/odedmasala/react-tic-tac-toe.git`.
 2. Navigate to the root directory of the project and install the dependencies using `npm install` or `yarn install`.
 3. Start the development server using `npm run dev` or `yarn dev`.
 4. The game should now be running on `http://localhost:3000`.
