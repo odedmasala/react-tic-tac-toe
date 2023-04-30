@@ -5,7 +5,8 @@ Welcome to the react-tic-tac-toe project, a simple tic-tac-toe game built with R
  ## Screenshot
 ![react-tic-tac-toe](https://user-images.githubusercontent.com/105584185/197782763-ce880499-3d1b-46d1-ab8f-a54d2f4345d5.png)
 
-
+## Link to site 
+https://legendary-granita-dcd632.netlify.app
 ## Project Description
 
 This project is a simple tic-tac-toe game that allows two players to play against each other. It was built using the React library for the frontend and TypeScript for type checking and improved code reliability. The project uses the Vite build tool for fast development and the Tailwind CSS framework for styling.
